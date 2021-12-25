@@ -1,6 +1,6 @@
 # Introduction
 
-```text
+```
 ➜  source git:(master) ✗ npm install -g gitbook-cli
 /Users/mingyi/.nvm/versions/node/v13.14.0/bin/gitbook -> /Users/mingyi/.nvm/versions/node/v13.14.0/lib/node_modules/gitbook-cli/bin/gitbook.js
 + gitbook-cli@2.3.2
@@ -47,11 +47,12 @@ Starting server ...
 Serving book on http://localhost:4000
 ```
 
-- `gitbook build`
-- `gitbook --port 4000 serve ./`
+* `gitbook build`
+* `gitbook --port 4000 serve ./`
+* `test`
 
 ref:
 
-- [setting](http://gitbook.zhangjikai.com/settings.html)
-- [Templating](https://snowdreams1006.github.io/gitbook-official/en/templating/)
-- [Theme](https://snowdreams1006.github.io/gitbook-official/en/themes/)
+* [setting](http://gitbook.zhangjikai.com/settings.html)
+* [Templating](https://snowdreams1006.github.io/gitbook-official/en/templating/)
+* [Theme](https://snowdreams1006.github.io/gitbook-official/en/themes/)
