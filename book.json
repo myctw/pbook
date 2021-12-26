@@ -4,7 +4,5 @@
     "author": "阿派",
     "gitbook": "3.2.3",
     "root": ".",
-    "plugins": [
-    ]
-
+    "plugins": []
 }
